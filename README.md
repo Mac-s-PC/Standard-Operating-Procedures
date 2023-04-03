@@ -1,8 +1,11 @@
 # Standard-Operating-Procedures
 
 
-**Employee Onboarding** - Discusses network account generation for employees being onboarded
-    How will network account needs be handled for employees being terminated?
+**Employee Onboarding** - Network account generation process
+
+**Employee Termination** - Network account termination process
+
+**Operating System Version Control**
     How will OS version control be handled?
         Hint: Read Windows Server Update Services{:target="_blank"}.
     How will you ensure users can access their files from any domain attached system?
