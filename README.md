@@ -1,7 +1,7 @@
 # Standard-Operating-Procedures
 
 
-    How will network account needs be handled for employees being onboarded?
+**Employee Onboarding** - Discusses network account generation for employees being onboarded
     How will network account needs be handled for employees being terminated?
     How will OS version control be handled?
         Hint: Read Windows Server Update Services{:target="_blank"}.
