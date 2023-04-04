@@ -8,7 +8,7 @@
 
 [**User File access**]() - Process for users to access their files from any domain attached system
 
-[**Network Monitoring**]() - Process for monitoring network traffic to identify nefarious activity or employee misuse
+[**Network Monitoring**](https://github.com/Mac-s-PC/Standard-Operating-Procedures/blob/main/SOP%20Network%20Monitoring.pdf) - Process for monitoring network traffic to identify nefarious activity or employee misuse
 
 [**Network Configuration Changes**]() - Process for configuring network while minimizing network down time
 
