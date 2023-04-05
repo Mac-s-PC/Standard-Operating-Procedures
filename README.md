@@ -10,6 +10,6 @@
 
 [**Network Monitoring**](https://github.com/Mac-s-PC/Standard-Operating-Procedures/blob/main/SOP%20Network%20Monitoring.pdf) - Process for monitoring network traffic to identify nefarious activity or employee misuse
 
-[**Network Changes**](https://github.com/Mac-s-PC/Standard-Operating-Procedures/blob/main/SOP%20Network%20Configuration.pdf) - Process for hardware or software changes and for configuring network while minimizing network down time
+[**Network Changes**](https://github.com/Mac-s-PC/Standard-Operating-Procedures/blob/main/SOP%20Network%20Changes.pdf) - Process for hardware or software changes and for configuring network while minimizing network down time
 
 [**Network Security**](https://github.com/Mac-s-PC/Standard-Operating-Procedures/blob/main/SOP_%20Network%20Security.pdf) - Processes and tools used to establish and maintain network security
