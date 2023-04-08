@@ -20,7 +20,7 @@ Author - Jeremy Patton
 
 Author - Rob Gregor
 
-[**Network Changes**](https://github.com/Mac-s-PC/Standard-Operating-Procedures/blob/main/SOP%20Network%20Changes.pdf) - Process for hardware or software changes and for configuring network while minimizing network down time
+[**Network Changes**](https://github.com/Mac-s-PC/Standard-Operating-Procedures/blob/main/SOP%20Network%20Configuration.pdf) - Process for hardware or software changes and for configuring network while minimizing network down time
 
 Author - Rob Gregor
 
